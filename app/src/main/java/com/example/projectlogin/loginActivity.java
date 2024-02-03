@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.easy_furniture_1.R;
+
 public class loginActivity extends AppCompatActivity {
 
     @Override

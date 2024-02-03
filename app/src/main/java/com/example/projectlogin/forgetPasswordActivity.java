@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.easy_furniture_1.R;
+
 public class forgetPasswordActivity extends AppCompatActivity {
 
     @Override
